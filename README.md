@@ -1,2 +1,3 @@
 # jwt-locker-axios
-Axios adapter for jwt-locker
+
+Axios adapter for [jwt-locker](https://github.com/twfarland/jwt-locker)
