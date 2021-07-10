@@ -2,10 +2,10 @@
   "name": "jwt-locker-axios",
   "version": "0.1.0",
   "description": "Axios adapter for jwt-locker",
-  "main": "src/index.ts",
-  "types": "src/index.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
-    "src/"
+    "/dist"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
